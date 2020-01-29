@@ -81,7 +81,7 @@ wptKey: "603b3649daecced4cbceb6a9bdb96de9d17158eb1f7d38a3f0b3c51abbf5b549cc64"
 #    iconEmoji: ":grimacing:"
 
 default: true
-name: 'eduardoboucas.com (3G)'
+name: 'base'
 parameters:
   connectivity: '3G'
   location: 'Dulles:Chrome'
