@@ -79,3 +79,13 @@ wptKey: "603b3649daecced4cbceb6a9bdb96de9d17158eb1f7d38a3f0b3c51abbf5b549cc64"
 #    channel: "#speedtracker"
 #    username: "SpeedTracker"
 #    iconEmoji: ":grimacing:"
+
+default: true
+name: 'eduardoboucas.com (3G)'
+parameters:
+  connectivity: '3G'
+  location: 'Dulles:Chrome'
+  firstViewOnly: true
+  runs: 1
+  url: "https://platypusv2.appspot.com/"
+  video: true
